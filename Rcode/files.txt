@@ -1,1 +1,3 @@
 The files in this folder contain the R code for running HMC on the ODE models built in Stan, forecasting based on the Stan output and buildling the ensemble model.    
+
+To run the ensemble model, forecasts for each of the four other models should be obtained first and then fed into the ensemble model.  
